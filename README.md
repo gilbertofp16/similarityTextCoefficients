@@ -28,6 +28,11 @@ is long in words, this one is on disadvantage, even if the intersections are man
 a short text with less intersections will win and obtain better index, I recommend to use both coefficients 
 to obtain a good conclusion for evaluate text similarity. 
 
+# Download 
+
+https://github.com/gilbertofp16/similarityTextCoefficients
+
+gem install similarityTextCoefficients
 
 # License
 MIT
