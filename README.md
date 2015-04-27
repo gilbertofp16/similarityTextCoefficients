@@ -13,11 +13,10 @@ puts(SimilarityTextCoefficients.createJaccardIndex("something half","something")
 
 >> Result : 0.5
 
-puts(SimilarityTextCoefficients.createJaccardIndex("something half","something"))
+puts(SimilarityTextCoefficients.dice_coefficient("something half","something"))
 
 >> Result : 1.0
 
-puts(SimilarityTextCoefficients.dice_coefficient("something half","something"))
 
 
 # Notes
